@@ -1,0 +1,10 @@
+{
+  "name": "criador-mapas-mentais",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Criador de mapas mentais: index.html + funções da Vercel + Supabase",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node test/api.test.js"
+  }
+}
